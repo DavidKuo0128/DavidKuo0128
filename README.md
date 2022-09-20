@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java programming.
 - 📫 How to reach me : https://davidcode0128.blogspot.com/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcode0128&show_icons=true&theme=Gradient
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcode0128&show_icons=true&theme=gradient
 )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!---

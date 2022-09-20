@@ -8,8 +8,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=davidcode0128&show_icons=true&theme=midnight-purple">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcode0128&show_icons=true&theme=midnight-purple" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcode0128&layout=compact&theme=midnight-purple">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcode0128&layout=compact&theme=midnight-purple" />
 </a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcode0128&layout=compact&theme=midnight-purple)
 <!---

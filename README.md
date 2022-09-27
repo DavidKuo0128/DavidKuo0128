@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidKuo0128
+# Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I am Davidcode0128.
 - 👀 I’m interested in plants.
 - 🌱 I’m currently learning Java programming.
 - 📫 How to reach me : https://davidcode0128.blogspot.com/
